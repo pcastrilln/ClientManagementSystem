@@ -1,0 +1,6 @@
+Name,Location,Phone_Number,Email,Schedule,Shift,Notes,DOB,Status
+John Smith,New York,+1-555-0101,john.smith@example.com,"Mon-Fri, 9AM-5PM",Morning,Experienced in customer service,1990-05-15,active
+Maria Garcia,Los Angeles,+1-555-0102,maria.garcia@example.com,"Tue-Sat, 10AM-6PM",Afternoon,Bilingual (English/Spanish),1988-08-22,active
+David Chen,Chicago,+1-555-0103,david.chen@example.com,"Wed-Sun, 11AM-7PM",Evening,Part-time availability,1992-03-10,paused
+Lisa Johnson,Miami,+1-555-0104,lisa.johnson@example.com,"Mon-Fri, 8AM-4PM",Morning,Training new hires,1985-11-30,active
+James Wilson,Boston,+1-555-0105,james.wilson@example.com,"Thu-Mon, 12PM-8PM",Evening,Weekend specialist,1991-07-25,inactive
